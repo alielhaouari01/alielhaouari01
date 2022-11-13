@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ali el haouari
+- 👋 Hi, I’m Ali El Haouari
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning AI
 - 📫 How to reach me "ali.elhaouari101@gmail.com"
